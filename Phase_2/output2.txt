@@ -1,0 +1,42 @@
+Job Id :1
+Error: Operation Code Error
+IC: 1
+IR: JD10
+TTC: 0
+LLC: 0
+
+Job Id :2
+Error: Time Limit Exceeded
+IC: 1
+IR: GD60
+TTC: 1
+LLC: 0
+PD40H                                   
+
+Job Id :3
+Error: Invalid Page Fault
+IC: 2
+IR: PD40
+TTC: 1
+LLC: 1
+
+
+
+Job Id :4
+Error: Operand Error
+IC: 2
+IR: PDo1
+TTC: 0
+LLC: 0
+
+
+
+Job Id :5
+Error: Out of Data
+IC: 1
+IR: GD30
+TTC: 0
+LLC: 0
+
+
+
